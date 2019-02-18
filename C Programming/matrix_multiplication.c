@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//fuck you
 int matrix[3][3],matrix1[3][3],answer[3][3],i,j,temp; //matrix declared globally instead of locally
 
 void inpMatrix(int flag) //function for inputting matrices; using flag to differentiate between the first and second matrix
